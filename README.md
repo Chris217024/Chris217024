@@ -33,5 +33,9 @@ I combine mathematics teaching, learning design and web technology. My goal is n
 
 ## Connect
 
-- [Equation Station SA](https://equationstation-sa.pages.dev/)
-- [YouTube — Equation Station SA](https://www.youtube.com/@theequationstationsa)
+- [Website](https://equationstation-sa.pages.dev/)
+- [YouTube](https://www.youtube.com/@theequationstationsa)
+- [TikTok](https://www.tiktok.com/@theequationstationsa)
+- [Instagram](https://www.instagram.com/equationstationsa)
+- [Facebook](https://www.facebook.com/equationstationsa)
+- [X](https://x.com/equationstatio)
