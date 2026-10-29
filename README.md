@@ -12,7 +12,7 @@ I’m a Learning Experience Designer and the founder of **Equation Station SA**,
 
 ## Featured work
 
-### [Equation Station SA](https://equationstation-sa.pages.dev/)
+### [Equation Station SA](https://equationstationsa.top)
 
 A growing mathematics platform for South African learners, with topic-based lessons, worked examples, exam-focused practice and guided support.
 
